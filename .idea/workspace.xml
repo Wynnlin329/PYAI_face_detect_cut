@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c9dce0c-a28d-4512-b8ad-f0063b8c4234" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Dlib_face_cut" beforeDir="false" afterPath="$PROJECT_DIR$/Dlib_face_cut" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dlib_face_cut/crop_faces_save.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dlib_face_cut/crop_faces_save.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dlib_face_cut/faces_from_camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dlib_face_cut/faces_from_camera.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dlib_face_cut/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dlib_face_cut/test.py" afterDir="false" />
@@ -25,6 +26,7 @@
   <component name="ProjectId" id="1UhMbYZ1PxtUfAyy4lPLICDJyx9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="E:/Anaconda3/envs/py36" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
